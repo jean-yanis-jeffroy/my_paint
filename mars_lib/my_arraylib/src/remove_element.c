@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2023
+** @jean-yanis-jeffroy, 2023
 ** array
 ** File description:
 ** remove_element

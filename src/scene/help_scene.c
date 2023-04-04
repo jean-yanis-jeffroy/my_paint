@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2023
+** @jean-yanis-jeffroy, 2023
 ** paint
 ** File description:
 ** help_scene

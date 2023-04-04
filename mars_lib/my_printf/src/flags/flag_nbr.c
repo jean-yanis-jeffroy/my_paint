@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** @jean-yanis-jeffroy && @DiaboloAB, 2022
 ** flag nbr
 ** File description:
 ** flag nbr

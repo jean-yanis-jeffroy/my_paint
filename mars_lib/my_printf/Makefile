@@ -1,5 +1,5 @@
 ##
-## EPITECH PROJECT, 2023
+## @jean-yanis-jeffroy, 2022
 ## mars_lib
 ## File description:
 ## Makefile
